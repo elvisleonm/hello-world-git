@@ -5,4 +5,16 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
-Soy un redmi.wfsdfsd
+Underline 1
+------------
+
+Underline 2
+============
+
+- formato *italica* de la primer forma.
+- formato _italica_ de la segunda forma.
+- formato **bold o strong** de la primer forma.
+- formato __bold o strong__ de la segunda forma.
+- formato ~~tachado~~, formato normal.
+- aqui podemo usar *formato italico* o **bold** y ~~tachado~~.
+
